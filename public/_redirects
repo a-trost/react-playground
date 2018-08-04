@@ -1,0 +1,4 @@
+https://playground.netlify.com/* https://playground.atrost.com/:splat 301!
+http://playground.netlify.com/* http://playground.atrost.com/:splat 301!
+http://playground.atrost.com/* https://playground.atrost.com/:splat 301!
+/*    /index.html   200
